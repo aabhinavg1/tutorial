@@ -1,0 +1,5 @@
+/Users/compile_sanatan/singlelinkedlist/build/CMakeFiles/LinkedListExample.dir
+/Users/compile_sanatan/singlelinkedlist/build/CMakeFiles/LinkedListMenuBased.dir
+/Users/compile_sanatan/singlelinkedlist/build/CMakeFiles/LinkedListGeneric.dir
+/Users/compile_sanatan/singlelinkedlist/build/CMakeFiles/edit_cache.dir
+/Users/compile_sanatan/singlelinkedlist/build/CMakeFiles/rebuild_cache.dir
